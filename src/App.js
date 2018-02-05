@@ -1,18 +1,17 @@
 import React, { Component } from 'react'
 import ComponentHome from './Home/index'
-import ComponentFooter from './Footer/footer'
-import './App.css';
+import ComponentSession from './session/session'
+import './App.css'
 
 class App extends Component {
-  render() {
+  render () {
     return (
       <div className="App">
         <ComponentHome/>
-        <div className="App-session"></div>
-        <ComponentFooter/>
+        <ComponentSession/>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App

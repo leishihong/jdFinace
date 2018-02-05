@@ -4,9 +4,28 @@
   width: 100%;
   align-items: center;
   padding: 15px;
-  background: #ffffff;
+  font-size: 14px;
+  background: #F9F9F9;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
+  .App-header p:first-child {
+    font-size: 14px;
+    color: #666; }
+    .App-header p:first-child span {
+      padding: 0 6px;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box; }
+    .App-header p:first-child span:first-child {
+      border-right: 1px solid #333; }
+  .App-header .img-Logo {
+    width: 105px;
+    height: 28px; }
+  .App-header p:last-child {
+    color: #ffffff;
+    padding: 4px;
+    border-radius: 2px;
+    background: #F04752; }
 
 /*# sourceMappingURL=header.css.map */

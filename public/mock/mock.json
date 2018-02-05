@@ -1,0 +1,135 @@
+{
+    "cade": 1,
+    "errors": null,
+    "message": "",
+    "results": {
+      "homeBanner": [
+        "//img12.360buyimg.com/jrpmobile/jfs/t16921/338/397360593/74658/be2c3ffa/5a745a4cN203204b0.jpg?width=750&height=320",
+        "//img12.360buyimg.com/jrpmobile/jfs/t18502/328/427783398/39979/fd92abe9/5a745a7aNbb6715f7.jpg?width=750&height=320",
+        "//img12.360buyimg.com/jrpmobile/jfs/t18142/314/397637646/45079/2365b2e6/5a745a99N7b1570fe.jpg?width=750&height=320",
+        "//img12.360buyimg.com/jrpmobile/jfs/t15049/288/2158196154/47863/c017d686/5a745ac1N6000e38e.png?width=750&height=320"
+      ],
+      "manageBanner": [
+        "//img12.360buyimg.com/jrpmobile/jfs/t11149/181/856008463/68797/dc303e9/59f97baeN3cdae084.jpg?width=750&height=400",
+        "//img12.360buyimg.com/jrpmobile/jfs/t10405/120/2592801005/36022/d8f57852/59f97c14Nfb960073.png?width=750&height=400",
+        "//img12.360buyimg.com/jrpmobile/jfs/t9994/205/2575467053/189117/125e7b05/59f97c36N7599be57.png?width=750&height=400"
+      ],
+      "whiteBarBanner":[
+        "//img12.360buyimg.com/jrpmobile/jfs/t8437/321/1758527686/40952/f66d552f/59bf1f41N50d846f9.jpg?width=750&height=320",
+        "//img12.360buyimg.com/jrpmobile/jfs/t8491/303/504628479/60643/100648de/59a94358N92475fca.jpg?width=750&height=320"
+      ],
+      "manageDraw": "//img12.360buyimg.com/jrpmobile/jfs/t5842/235/8356236245/38364/2112fd7e/597a95d4Ne01da140.png?width=750&height=270",
+      "listIcon": [
+        {
+          "title": "优惠劵",
+          "imgages": "//img12.360buyimg.com/jrpmobile/jfs/t3991/64/2521945388/12110/93c0139/58d1e462Ncf294123.png?width=132&height=132"
+        },
+        {
+          "title": "领红包",
+          "images": "//img12.360buyimg.com/jrpmobile/jfs/t5590/252/875247023/17343/946aa72c/59224650N0f7ffc92.png?width=132&height=132"
+        },
+        {
+          "title": "抢钢镚",
+          "images": "//img12.360buyimg.com/jrpmobile/jfs/t4393/329/2180608902/13217/c88c0cec/58ec9dcdN1534e2d7.png?width=132&height=132"
+        },
+        {
+          "title": "领京豆",
+          "images": "//img12.360buyimg.com/jrpmobile/jfs/t4618/115/2179710654/11347/bf520df/58ec9d84Nfd169001.png?width=132&height=132"
+        },
+        {
+          "title": "白条提额",
+          "images": "//img12.360buyimg.com/jrpmobile/jfs/t5488/298/1036263348/12073/b4f4de97/590ac8e8Ne9def22e.png?width=135&height=135"
+        }
+      ],
+      "newHands": [
+        {
+          "id": "0",
+          "img": "//img12.360buyimg.com/jrpmobile/jfs/t10384/155/1759179594/9776/185bd062/59e5f0ebNec4cf494.png?width=100&height=100",
+          "detail": {
+            "holder-2": "//storage.jd.com/static-res/active/2017/newgift0531/0131/pic-2.jpg",
+            "holder-3": "//storage.jd.com/static-res/active/2017/newgift0531/0131/pic3-outsite.jpg"
+          }
+        },
+        {
+          "id":"1",
+          "img":"//img12.360buyimg.com/jrpmobile/jfs/t4639/162/1782623297/60754/98ea03b4/58e60952N7fdb2b85.png?width=200&height=200"
+        },
+        {
+          "id": "2",
+          "img": "//img12.360buyimg.com/jrpmobile/jfs/t4804/179/657713323/5908/66dce262/58e6095fNd3dc3f39.png?width=100&height=100"
+        }
+      ],
+      "topspeed": "//img12.360buyimg.com/jrpmobile/jfs/t12721/42/2497849749/26333/ec584be4/5a421756N2416c88f.png?width=750&height=280",
+      "newRecommend": [
+        {
+          "pageNo": "1",
+          "projectId":"94591",
+          "timeStamp":"743",
+          "isFrom":"projectDetail",
+          "recLoc":"100014",
+          "key":"1000",
+          "reqData":{"userType":"78","clientType":"outH5"},
+          "img": "//img12.360buyimg.com/jrpmobile/jfs/t17557/54/395685649/41568/9ab97963/5a72e560Nb0d7e54f.jpg?width=335&height=421"
+
+        },
+        {
+          "pageNo": "1",
+          "projectId":"93702",
+          "timeStamp":"562",
+          "isFrom":"projectDetail",
+          "recLoc":"100014",
+          "key":"1000",
+          "reqData":{"userType":"78","clientType":"outH5"},
+          "img": "//img12.360buyimg.com/jrpmobile/jfs/t14860/350/2164532413/39513/41b260d4/5a72e5c2N95212bfa.jpg?width=335&height=421"
+        },
+        {
+          "pageNo": "1",
+          "projectId":"96413",
+          "timeStamp":"871",
+          "isFrom":"projectDetail",
+          "recLoc":"100014",
+          "key":"1000",
+          "reqData":{"userType":"78","clientType":"outH5"},
+          "img": "//img12.360buyimg.com/jrpmobile/jfs/t19189/78/412279407/50765/35866492/5a72e5d4Nc3d96002.jpg?width=335&height=421"
+        },
+        {
+          "pageNo": "1",
+          "projectId":"96426",
+          "timeStamp":"555",
+          "isFrom":"projectDetail",
+          "recLoc":"100014",
+          "key":"1000",
+          "reqData":{"userType":"78","clientType":"outH5"},
+          "img": "//img12.360buyimg.com/jrpmobile/jfs/t17506/112/423288292/45039/ba638e28/5a72e986N9a577e50.jpg?width=335&height=421"
+        }
+      ],
+      "serviceLife": [
+        {
+          "title": "惠加油",
+          "image": "//img12.360buyimg.com/jrpmobile/jfs/t4375/104/1184122472/3976/89741da4/58be8a6eNf10193d0.png?width=135&height=135"
+        },
+        {
+          "title": "小白信用",
+          "image": "//img12.360buyimg.com/jrpmobile/jfs/t4747/185/1901740991/5892/1383fb93/58f57851N17ee6993.jpg?width=132&height=132",
+          "upgrade": "true",
+          "upgradeTitle": "全新升级 "
+        },
+        {
+          "title": "信用卡还款",
+          "image": "//img12.360buyimg.com/jrpmobile/jfs/t3241/234/8044685271/3713/7b29f77f/58be89c8Nb9d41295.png?width=135&height=135"
+        },
+        {
+          "title": "定期还款",
+          "image": "//img12.360buyimg.com/jrpmobile/jfs/t3172/259/7993557249/4351/fd082707/58be8a81Nd7716a06.png?width=135&height=135"
+        },
+        {
+          "title": "惠加油",
+          "image": "//img12.360buyimg.com/jrpmobile/jfs/t3085/320/8107659086/4344/cdbba2dd/58be8acfNdadcaf00.png?width=135&height=135"
+        }
+      ],
+      "customerService": {
+        "reqData":{"pageSize":13,"pageIndex":1,"qmCate":1005,"clientType":"ios","isApp":0,"groupNum":3},
+        "img": "//img12.360buyimg.com/jrpmobile/jfs/t2842/350/3035567089/14791/5f6ff93d/577cf395N31e76288.png?width=1125&height=252"
+      }
+    }
+}
